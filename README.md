@@ -1,0 +1,1 @@
+Almost all JS functions
