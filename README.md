@@ -1,1 +1,1 @@
-Almost all JS functions
+Almost all JS functions :D
